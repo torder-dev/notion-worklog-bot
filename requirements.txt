@@ -6,7 +6,7 @@ chardet==4.0.0
 commonmark==0.9.1
 dictdiffer==0.8.1
 idna==2.10
-notion==0.0.28
+notion @ git+https://github.com/wsykala/notion-py.git@43bf14459c8be0a5183dac28afb0fb55a7f23401
 python-slugify==4.0.1
 pytz==2021.1
 requests==2.25.1
